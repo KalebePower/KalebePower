@@ -1,4 +1,9 @@
-### Hi there 👋
+# sobre mim 
+-ola, eu sou Kalebe Power;
+-Estou interesado em curso;
+-Atualmente estou aprendendo SCRATCH e JAVASCRIPT;
+-Estou disponivel para colaborar e ajudar meus colegas ; 
+-HIHIHAHA
 
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
