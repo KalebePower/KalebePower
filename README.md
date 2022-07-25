@@ -6,7 +6,7 @@
 - Sou humilde; 
 - Honesto;
 - @kalebe_do_nascimento21;
-<a href=””><img src=”https://www.cineset.com.br/carros-3-relampago-mcqueen-ensina-dificil-licao-para-pixar/”></img></a>
+<a href=””><img src=https://static.wikia.nocookie.net/pixar/images/a/ad/Cars_Lighting_Mcqueen.png/revision/latest?cb=20191025194603&path-prefix=pt-br/></img></a>
 
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
