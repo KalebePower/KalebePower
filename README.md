@@ -6,7 +6,7 @@
 - Sou humilde; 
 - Honesto;
 - @kalebe_do_nascimento21;
-- <a href=””><img src=https://i.pinimg.com/originals/05/a0/eb/05a0ebfa4373345e2b280a5095c341cf.jpg></img></a>
+- <a href=””><img src=https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png/revision/latest?cb=20200325185152></img></a>
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
