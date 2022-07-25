@@ -6,7 +6,7 @@
 - Sou humilde; 
 - Honesto;
 - @kalebe_do_nascimento21;
-- <a href=””><img src=”https://br.pinterest.com/pin/657314508094041001/”></img></a>
+- <a href=””><img src=”https://www.cineset.com.br/carros-3-relampago-mcqueen-ensina-dificil-licao-para-pixar/”></img></a>;
 
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
