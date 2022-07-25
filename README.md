@@ -1,11 +1,11 @@
-# sobre mim 
+# sobre mim;
 -ola, eu sou Kalebe Power;
 -Estou interesado em curso;
 -Atualmente estou aprendendo SCRATCH e JAVASCRIPT;
 -Estou disponivel para colaborar e ajudar meus colegas ; 
--sou humilde 
--honesto
--@kalebe_do_nascimento21
+-sou humilde; 
+-honesto;
+-@kalebe_do_nascimento21;
 
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
