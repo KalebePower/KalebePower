@@ -6,7 +6,7 @@
 - Sou humilde; 
 - Honesto;
 - @kalebe_do_nascimento21;
-- <a href=””><img src=https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/03/Diamond_Ore_TextureUpdate_Revision_1.png/revision/latest?cb=20190514225551></img></a>
+- <a href=””><img src=http://pm1.narvii.com/7840/4c24e0dfc58213e6863636f204e105181a7880d9r1-684-492v2_uhq.jpg></img></a>
 <!--
 **KalebePower/KalebePower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
